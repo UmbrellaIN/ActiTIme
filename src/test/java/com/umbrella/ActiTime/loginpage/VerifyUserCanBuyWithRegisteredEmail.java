@@ -14,7 +14,6 @@ public class VerifyUserCanBuyWithRegisteredEmail extends TestBase {
 		System.out.println(" **********I am starting Test of Demo site**********");
 		log.info(VerifyUserCanBuyWithRegisteredEmail.class + " started");
 		System.out.println("I am Just instantiating signinpage driver");
-		System.out.println("I am Just instantiating signinpage driver");
 
 	}
 
