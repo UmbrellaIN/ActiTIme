@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name=" Functional Suite" duration-ms="2002" started-at="2018-02-09T13:38:24Z" finished-at="2018-02-09T13:38:26Z">
+    <groups>
+    </groups>
+    <test name="VerifyUserCanBuyWithRegisteredEmail" duration-ms="2002" started-at="2018-02-09T13:38:24Z" finished-at="2018-02-09T13:38:26Z">
+      <class name="com.umbrella.ActiTime.loginpage.VerifyUserCanBuyWithRegisteredEmail">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.umbrella.ActiTime.loginpage.VerifyUserCanBuyWithRegisteredEmail@5e25a92e]" name="launchBrowser" is-config="true" duration-ms="1491" started-at="2018-02-09T19:08:24Z" finished-at="2018-02-09T19:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.umbrella.ActiTime.loginpage.VerifyUserCanBuyWithRegisteredEmail@5e25a92e]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2018-02-09T19:08:26Z" finished-at="2018-02-09T19:08:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.umbrella.ActiTime.loginpage.VerifyUserCanBuyWithRegisteredEmail.testusercanloginwithvalidcredentials() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testusercanloginwithvalidcredentials()[pri:1, instance:com.umbrella.ActiTime.loginpage.VerifyUserCanBuyWithRegisteredEmail@5e25a92e]" name="testusercanloginwithvalidcredentials" duration-ms="0" started-at="2018-02-09T19:08:26Z" finished-at="2018-02-09T19:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testusercanloginwithvalidcredentials -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.umbrella.ActiTime.loginpage.VerifyUserCanBuyWithRegisteredEmail@5e25a92e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-02-09T19:08:26Z" finished-at="2018-02-09T19:08:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testusercanloginwithvalidcredentials status=SUCCESS method=VerifyUserCanBuyWithRegisteredEmail.testusercanloginwithvalidcredentials()[pri:1, instance:com.umbrella.ActiTime.loginpage.VerifyUserCanBuyWithRegisteredEmail@5e25a92e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.umbrella.ActiTime.loginpage.VerifyUserCanBuyWithRegisteredEmail@5e25a92e]" name="endTest" is-config="true" duration-ms="485" started-at="2018-02-09T19:08:26Z" finished-at="2018-02-09T19:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.umbrella.ActiTime.loginpage.VerifyUserCanBuyWithRegisteredEmail -->
+    </test> <!-- VerifyUserCanBuyWithRegisteredEmail -->
+  </suite> <!--  Functional Suite -->
+  <suite name="Master test suite" duration-ms="0" started-at="2018-02-09T13:38:26Z" finished-at="2018-02-09T13:38:26Z">
+    <groups>
+    </groups>
+  </suite> <!-- Master test suite -->
+</testng-results>
